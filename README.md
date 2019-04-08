@@ -7,6 +7,11 @@ This extremely simple app allows the user to add items to their agenda. Use
 
 The prototype application is now available on `localhost`.
 
+## Changes Made
+
+ * For the first feature, the user can double click on the TODO item to delete it or mark it as complete. This item will go in the completed todo list view.
+ * For the second feature, the user needs to type something in the input box and then click on the item they want to edit. 
+ * For the third feature, there is a toggle view button to switch between viewing the todo list and completed todo list.
 ## Feature requests
 
 Using React, we currently allow the user to add as many items as they'd like.
